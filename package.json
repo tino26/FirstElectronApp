@@ -1,0 +1,26 @@
+{
+  "name": "firstelectronapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinonino/FirstElectronApp.git"
+  },
+  "author": "Tino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinonino/FirstElectronApp/issues"
+  },
+  "homepage": "https://github.com/tinonino/FirstElectronApp#readme",
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
+}
